@@ -55,7 +55,7 @@ Do đó, đề tài có thêm một mục tiêu nhỏ là có thể áp dụng �
 
 - Ban đầu dự định là thêm STT(Speech-to-Text) thay vì TTS(Text-to-Speech), nhưng chỉ mới hoàn thiện được đến phần phân tích file âm thanh mẫu và đưa ra cơ sở để thực hiện.
 
-- Thư viện Audio.h chiếm quá nhiều dung lượng, nên cần tối ưu lại chuyên biệt cho TTS. (Đã hoàn thiện và ở link sau: [ESP32-AudioI2S-TTS](https://github.com/NguyenVuTatKhang/ESP32-AudioI2S-TTS)
+- Thư viện Audio.h chiếm quá nhiều dung lượng, nên cần tối ưu lại chuyên biệt cho TTS. (Đã hoàn thiện và ở link sau: [ESP32-AudioI2S-TTS](https://github.com/NguyenVuTatKhang/ESP32-AudioI2S-TTS) )
 
 ## Video demo
 
