@@ -46,6 +46,8 @@ _Lưu ý: Do GoogleSheet giới hạn ở 255 triệu ô, nên cần xóa đi c�
 
 Sheet chứa bảng và thuật toán: [Link](https://docs.google.com/spreadsheets/d/150dekcJ24wxHlKx5Yk9q0WGgxaNNynC73zr6MBeT-2Q/edit?gid=0#gid=0)
 
+![ảnh](additional_info/anh4.png)
+
 -> Thuật toán là việc tổng hợp và theo dõi dữ liệu từ tất cả các ngày thu được xuyên suốt từ tháng 7 đến tháng 11 năm 2024. 
 Từ đó, tổng hợp các điểm đặc biệt khi bật/tắt điều hòa và đèn trong phòng để tạo nên một thuật toán đơn giản giúp theo dõi được trạng thái của 2 thiết bị này với độ chính xác tốt.
 
